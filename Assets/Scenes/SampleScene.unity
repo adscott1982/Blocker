@@ -379,9 +379,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 698514b2eeb4b7c49a236198a7118d2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Acceleration: 5
-  Deceleration: 5
-  MaxSpeed: 5
+  Acceleration: 20
+  Deceleration: 25
+  MaxSpeed: 10
 --- !u!50 &1744694533
 Rigidbody2D:
   serializedVersion: 4
